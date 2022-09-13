@@ -5,10 +5,10 @@ Hi, I'm PtrStruct!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/PtrStruct">
 		<img src="https://komarev.com/ghpvc/?username=PtrStruct&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/PtrStruct">
 		<img src="https://img.shields.io/github/followers/PtrStruct?label=Followers" alt="bouaskaoun" />
 	</a>
 </p>
@@ -82,7 +82,7 @@ Hi, I'm PtrStruct!
 ## <a href="https://github.com/PtrStruct"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ PtrStruct's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/PtrStruct">
