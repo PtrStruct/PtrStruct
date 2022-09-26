@@ -91,9 +91,11 @@ Hi, I'm PtrStruct!
 	</a>
 	<br/>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PtrStruct&show_icons=true&theme=dracula)
+
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 <!--
 <summary><b>⚡ Activity graph</b></summary>
