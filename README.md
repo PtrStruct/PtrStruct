@@ -93,6 +93,7 @@ Hi, I'm PtrStruct!
 </p>
 <br/>
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
