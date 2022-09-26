@@ -86,8 +86,8 @@ Hi, I'm PtrStruct!
 <br/>
 <p align="center">
 	<a href="https://github.com/PtrStruct">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PtrStruct&show_icons=true" alt="PtrStruct">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct" alt="PtrStruct">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PtrStruct&show_icons=true&theme=dracula" alt="PtrStruct">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct&theme=dracula" alt="PtrStruct">
 	</a>
 	<br/>
 </p>
@@ -113,7 +113,7 @@ Hi, I'm PtrStruct!
 
 <p align="center">
 	<a href="https://github.com/PtrStruct">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtrStruct&langs_count=8&layout=compact" alt="PtrStruct">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtrStruct&langs_count=8&layout=compact&theme=dracula" alt="PtrStruct">
 	</a>
 	<br/>
 <br/>
