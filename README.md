@@ -92,10 +92,8 @@ Hi, I'm PtrStruct!
 	<br/>
 </p>
 
-
-
 <br/>
-![PtrStruct's GitHub stats](https://github-readme-stats.vercel.app/api?username=PtrStruct&show_icons=true&theme=radical)
+
 
 <!--
 <summary><b>⚡ Activity graph</b></summary>
