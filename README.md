@@ -14,7 +14,7 @@ Hi, I'm PtrStruct!
 </p>
 <br/>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=600&center=true&vCenter=true&width=435&lines=Software+Engineer;Network+Enthusiast;Computer+Science;TCP.Connect(RemoteHost(%22127.0.0.1%22))" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=600&center=true&vCenter=true&width=435&lines=Software+Engineer;Network+Enthusiast;Computer+Science;Algorithms" alt="Typing SVG" /></a>
 	</a>
 </p>
 
@@ -46,9 +46,6 @@ Hi, I'm PtrStruct!
     <a href="https://github.com/PtrStruct"><img alt="NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
     <a href="https://github.com/PtrStruct"><img alt="Blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"></a>
     <a href="https://github.com/PtrStruct"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="https://github.com/PtrStruct"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></a>
-    <a href="https://github.com/PtrStruct"><img alt="JQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
-    <a href="https://github.com/PtrStruct"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
     <a href="https://github.com/PtrStruct"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
@@ -67,6 +64,7 @@ Hi, I'm PtrStruct!
     <a href="https://github.com/PtrStruct"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
     <a href="https://github.com/PtrStruct"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
     <a href="https://github.com/PtrStruct"><img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/PtrStruct"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></a>
 </p>
 </br>
 
@@ -79,52 +77,51 @@ Hi, I'm PtrStruct!
 -->
 
 
-## <a href="https://github.com/PtrStruct"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## <a href="https://github.com/PtrStruct"></a> GitHub Stats
 
 <br/>
 <summary><b>⚡ PtrStruct's Stats</b></summary>
 <br/>
-<p align="center">
-	<a href="https://github.com/PtrStruct">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PtrStruct&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="PtrStruct">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct&theme=dracula" alt="PtrStruct">
-	</a>
-	<br/>
-</p>
 
-<br/>
+
+<a href="https://github.com/PtrStruct">
+    <img width="49.5%" align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct&theme=dark" alt="PtrStruct">
+  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PtrStruct&theme=dark" />
+</a>
+
+
 
 
 <!--
 <summary><b>⚡ Activity graph</b></summary>
-![PtrStruct's GitHub stats](https://github-readme-stats.vercel.app/api?username=PtrStruct&show_icons=true&theme=dracula)
 <br/>
-<p align="center">
-	<a href="https://github.com/PtrStruct">
-		<img src="https://activity-graph.herokuapp.com/graph?username=PtrStruct&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="PtrStruct">
-	</a>
-</p>
-<br/>
+
+https://github-readme-activity-graph.vercel.app/graph?username=PtrStruct&bg_color=222222&color=ffffff&line=14d675&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 -->
+
+<br/>
+<br/>
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/PtrStruct">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtrStruct&langs_count=8&layout=compact&theme=dracula" alt="PtrStruct">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtrStruct&langs_count=8&layout=compact&theme=dark" alt="PtrStruct">
 	</a>
 	<br/>
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<br/>
 
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
 
 
-## It's not perfect, isn't it?
+## It's not perfect, is it?
 
 **<a href="https://github.com/PtrStruct"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
