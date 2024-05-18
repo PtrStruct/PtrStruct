@@ -85,7 +85,7 @@ Hi, I'm PtrStruct!
 
 
 <a href="https://github.com/PtrStruct">
-    <img width="49.5%" align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct&theme=dark" alt="PtrStruct">
+    <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct&theme=dark" alt="PtrStruct">
   </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PtrStruct&theme=dark" />
