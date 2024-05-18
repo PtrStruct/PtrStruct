@@ -1,3 +1,10 @@
+<a href="https://github.com/PtrStruct">
+    <img width="49.5%" align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct&theme=dark" alt="PtrStruct">
+  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="49.5%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PtrStruct&theme=dark" />
+</a>
+
 <h1 align="center">
 Hi, I'm PtrStruct!
 	<a href="https://github.com/PtrStruct" target="_self">
