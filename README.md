@@ -84,12 +84,17 @@ Hi, I'm PtrStruct!
 <br/>
 
 
-<a href="https://github.com/PtrStruct">
-    <img width="49.5%" align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct&theme=dark" alt="PtrStruct">
-  </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="49.5%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PtrStruct&theme=dark" />
-</a>
+<p align="center">
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/PtrStruct" style="flex: 1; display: flex; justify-content: center;">
+      <img style="max-width: 100%; height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct&theme=dark" alt="PtrStruct">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; display: flex; justify-content: center;">
+      <img style="max-width: 100%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=PtrStruct&theme=dark" alt="PtrStruct">
+    </a>
+  </div>
+</p>
+
 
 
 
