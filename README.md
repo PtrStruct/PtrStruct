@@ -23,11 +23,10 @@ Hi, I'm PtrStruct!
 <pre>
 💻 I am a Software Engineer
 📚 I have a degree in Computer Science
-📝 I have a strong interest in algorithms and networking
+📝 I have a strong interest in algorithms and networking and design patterns
 🔭 Working on Dedicated Network Servers
 🌱 Learning about Network Security
-🌟 Main languages: C#, Java
-🚩 Interested in Algorithms, Networking and Design Patterns
+🌟 Main languages: C#, C, Java
 </pre>
 <hr>
 
@@ -38,6 +37,7 @@ Hi, I'm PtrStruct!
 
 <p>
     <a href="https://github.com/PtrStruct"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+    <a href="https://github.com/PtrStruct"><img alt="C" src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a href="https://github.com/PtrStruct"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
