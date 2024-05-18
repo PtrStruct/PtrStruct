@@ -87,10 +87,10 @@ Hi, I'm PtrStruct!
 <p align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
     <a href="https://github.com/PtrStruct" style="flex: 1 1 45%; display: flex; justify-content: center; margin: 10px;">
-      <img style="max-width: 100%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct&theme=dark" alt="PtrStruct">
+      <img style="max-width: 49.5%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=PtrStruct&theme=dark" alt="PtrStruct">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1 1 45%; display: flex; justify-content: center; margin: 10px;">
-      <img style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=PtrStruct&theme=dark" alt="PtrStruct">
+      <img style="max-width: 49.5%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=PtrStruct&theme=dark" alt="PtrStruct">
     </a>
   </div>
 </p>
