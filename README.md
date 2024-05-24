@@ -23,7 +23,7 @@ Hi, I'm PtrStruct!
 <pre>
 💻 I am a Software Engineer
 📚 I have a degree in Computer Science
-📝 I have a strong interest in algorithms and networking and design patterns
+📝 I have a strong interest in algorithms, networking and design patterns
 🔭 Working on Dedicated Network Servers
 🌱 Learning about Network Security
 🌟 Main languages: C#, C, Java
